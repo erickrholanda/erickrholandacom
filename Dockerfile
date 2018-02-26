@@ -8,4 +8,4 @@ WORKDIR /app
 
 RUN npm install -g create-react-app
 
-CMD yarn start
+CMD npm run start
