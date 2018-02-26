@@ -10,19 +10,36 @@
     "linkedinUrl":"https://www.linkedin.com/in/erick-reis-holanda-76163025/",
     "github":"https://github.com/erickrholanda",
     "description": "Desenvolvedor Backend e Frontend apaixonado por inovação. Com experiencia em PHP, Javascript, HTML e CSS, estou sempre buscando novidades.",
-    "experience": [
+    "education": [
+        {
+            "title" : "Análise e Desenvolvimento de Sistemas",
+            "period" : "Formado em Junho de 2012",
+            "local" : "Unigranrio"
+        },
+        {
+            "title" : "Ensino Médio",
+            "period" : "Dezembro de 2008",
+            "local" : "Colégio Estadual Raul Fernandes"
+        },
+        {
+            "title" : "Ensino Fundamental",
+            "period" : "Dezembro de 2005",
+            "local" : "Colégio São José"
+        }
+    ],
+    "experiences": [
         {
             "title": "Desenvolvedor Pleno",
             "period": "Junho de 2012 até o momento",
-            "company": "Sirius Interativa",
-            "companyUrl": "https://www.sirius.com.br",
+            "local": "Sirius Interativa",
+            "localUrl": "https://www.sirius.com.br",
             "description": "Desenvolvimentos de portais e sistemas usando Drupal, Yii, Django"
         },
         {
             "title": "Estagiário de desenvolvimento",
             "period": "Maio de 2011 até Maio de 2012",
-            "company": "Sirius Interativa",
-            "companyUrl": "https://www.sirius.com.br",
+            "local": "Sirius Interativa",
+            "localUrl": "https://www.sirius.com.br",
             "description": "Manutenção de sites em Drupal, yii, php puro ou estáticos."
         }
     ]
