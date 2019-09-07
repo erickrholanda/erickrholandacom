@@ -3,6 +3,7 @@ import resume from '../resume.json';
 import About from './About';
 import Experiences from './Experiences';
 import Education from './Education';
+import Number from './Number';
 
 class Content extends Component {
     constructor(props) {
@@ -38,6 +39,7 @@ class Content extends Component {
     render() {
         return (
             <div className="container-fluid p-0" style={this.state.style}>
+                <Number />
                 <About profile={this.state} />
                 <Experiences experiences={this.state.experiences} />
                 <Education education={this.state.education} />
